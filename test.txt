@@ -1,0 +1,155 @@
+ 1  cd..
+    2  cd..
+    3  cd gitcode
+    4  pwd
+    5  clear
+    6  ls
+    7  clear
+    8  ls
+    9  ls
+   10  touch index.js
+   11  rm index.js
+   12  mkdir test
+   13  rm-r test
+   14  rm -r test
+   15  touch index.html
+   16  mkdir test
+   17  mv index.html test
+   18  reset
+   19  histry
+   20  history
+   21  exit
+   22  git config -l
+   23  git config --system --list
+   24  clear
+   25  git config --global --list
+   26  clear
+   27  git config --global user.name"git.lulu"
+   28  git config --global user.email"792770413@qq.com"
+   29  clear
+   30  git init
+   31  clear
+   32
+   33  clear
+   34  clear
+   35  git clone ktop/gitcode
+   36  git clone https://gitee.com/kuangstudy/openclass.git
+   37  git init
+   38  git status
+   39  git status
+   40  git status
+   41  clear
+   42  git init
+   43  git status
+   44  git status
+   45  clear
+   46  git add.
+   47  git status
+   48  clear
+   49  git add .
+   50  git status
+   51  git commit -m "new file hello.txt"
+   52  git status
+   53  clear
+   54  git remote add 1 https://github.com/andelalucy/1.git
+   55  git remote
+   56  git clone git@github.com:andelalucy/1.git
+   57  git clone git@github.com:andelalucy/1.git
+   58  git clone git@github.com:andelalucy/1.git
+   59  clear
+   60  git clone git@github.com:andelalucy/one.git
+   61  git clone git@github.com:andelalucy/one.git
+   62  clear
+   63  cd
+   64  cd.ssh
+   65  clear
+   66   cd
+   67  cd .ssh
+   68  clear
+   69  ssh-keygen -t rsa
+   70  cat ~/.ssh/id_rsa.pub
+   71  clear
+   72  git clone git@github.com:andelalucy/cangku.git
+   73  git branch dev
+   74  git clone git@github.com:andelalucy/1.git
+   75  clear
+   76  git clone git@github.com:andelalucy/cangku.git
+   77  git branch dev
+   78  git branch dev
+   79  git branch test
+   80  touch readme.txt
+   81  ls
+   82  git add .
+   83  git status
+   84  git commit -m"初次commit,建立readme文档"
+   85  git branch test
+   86  git branch
+   87  git branch test
+   88  git add readme.text
+   89  git add test.txt
+   90  git add test.txt
+   91  git add readme
+   92  git add test.txt
+   93  git branch a
+   94  touch test.txt
+   95  git add .
+   96  git status
+   97  git commit -m"初次commit建立test文档"
+   98  clear
+   99  git config --global user.name"lulu"
+  100  git config --global user.email 792770413@qq.com
+  101  git config --global --list
+  102  git config --global user.name "lulu"
+  103  git config --global --list
+  104  clear
+  105  git commit -m"初次commit建立test文档"
+  106  git branch test1
+  107  git branch
+  108  git remote add origin git@github.com:andelalucy/cangku.git
+  109  git remote
+  110  git switch
+  111  git switch test1
+  112  git push origin test1
+  113  git clone git@github.com:andelalucy/cangku.git
+  114  git checkout test1
+  115  git status
+  116  git add cangku
+  117  clear
+  118  git status
+  119  git commit -m "commit 1.txt"
+  120  git log
+  121  git add 1.txt
+  122  git clear
+  123  git clear
+  124  git branch
+  125  git branch
+  126  git checkout master
+  127  git checkout -b master
+  128  git log
+  129  git checkout -b master
+  130  git checkout master
+  131  git status
+  132  git status
+  133  clear
+  134  git add test.txt
+  135  git status
+  136  git add cangku
+  137  git add cangku
+  138  git status
+  139  git reset cangku
+  140  git status
+  141  git add cangku
+  142  git log
+  143  cd ..
+  144  cd test
+  145  pwd
+  146  ls
+  147  touch 1.txt
+  148  rm 1.txt
+  149  clear
+  150  mkdir test
+  151  rm -r test
+  152  touch 1.txt
+  153  mv 1.txt gitcode
+  154  history
+
